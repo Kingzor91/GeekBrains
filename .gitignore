@@ -38,6 +38,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# C#
+*/**/obj/Debug
 bin/
 *.dll
 *.pdb
