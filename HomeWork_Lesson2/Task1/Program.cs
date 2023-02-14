@@ -24,12 +24,9 @@ bool ValidateNumberRank3(int number)
 int number = InputInt("Введите трехзначное число"); // Вызов функции ввода
 if (ValidateNumberRank3(number))    // Проверяем на трехзначность
 {
-    int n = number;
-    while (n > 100)
-    {
-        n = n / 10;
-    }
-    int result = n % 10;
+    int result = number;
+    result = result / 10;
+    result = result % 10;
 
     System.Console.WriteLine($"Вторая цифра числа {number} равна {result}");
 }
