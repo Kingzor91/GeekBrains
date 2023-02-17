@@ -6,7 +6,11 @@ double b2 = Input("b2");
 double k2 = Input("k2");
 
 Tuple<double, double> result = Function();
-System.Console.WriteLine($"({result.Item1}; {result.Item2})");
+
+double x = result.Item1;
+double y = result.Item2;
+
+System.Console.WriteLine($"({x}; {y})");
 
 double Input(string message)    // Параметр - подсказка пользователю
 {
