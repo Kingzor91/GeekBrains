@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fedorovaa/GeekBrains/Introduction to programming languages/C#/HomeWork_Lesson9/HomeWork_Lesson9.csproj",
-      "projectName": "HomeWork_Lesson9",
-      "projectPath": "/Users/fedorovaa/GeekBrains/Introduction to programming languages/C#/HomeWork_Lesson9/HomeWork_Lesson9.csproj",
+      "projectUniqueName": "/Users/fedorovaa/GeekBrains/Introduction to programming languages/C#/HomeWork_Lesson9/Task1/Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "/Users/fedorovaa/GeekBrains/Introduction to programming languages/C#/HomeWork_Lesson9/Task1/Task1.csproj",
       "packagesPath": "/Users/fedorovaa/.nuget/packages/",
-      "outputPath": "/Users/fedorovaa/GeekBrains/Introduction to programming languages/C#/HomeWork_Lesson9/obj/",
+      "outputPath": "/Users/fedorovaa/GeekBrains/Introduction to programming languages/C#/HomeWork_Lesson9/Task1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fedorovaa/.nuget/NuGet/NuGet.Config"
